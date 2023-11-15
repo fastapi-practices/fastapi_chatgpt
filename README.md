@@ -1,6 +1,6 @@
 # FastAPI ChatGPT
 
-Build the FastAPI ChatGPT API on top of open-interpreter
+Build the FastAPI ChatGPT API on top of [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
 ## First steps
 
