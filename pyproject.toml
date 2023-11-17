@@ -7,7 +7,7 @@ authors = [
 ]
 dependencies = [
     "fastapi>=0.104.1",
-    "open-interpreter>=0.1.11",
+    "open-interpreter>=0.1.15",
     "pydantic-settings>=2.0.3",
     "loguru>=0.7.2",
     "uvicorn>=0.24.0.post1",

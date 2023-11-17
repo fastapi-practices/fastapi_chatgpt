@@ -876,7 +876,7 @@ files = [
 
 [[package]]
 name = "open-interpreter"
-version = "0.1.14"
+version = "0.1.15"
 requires_python = ">=3.10,<3.12"
 summary = "Let language models run code."
 dependencies = [
@@ -900,8 +900,8 @@ dependencies = [
     "yaspin<4.0.0,>=3.0.1",
 ]
 files = [
-    {file = "open_interpreter-0.1.14-py3-none-any.whl", hash = "sha256:c7d6943105944b91fb813a19d5095d2d96e16b86ac76f5810fdfe60330479996"},
-    {file = "open_interpreter-0.1.14.tar.gz", hash = "sha256:b38707a563ad41d138856b957872c0d42d9c38e6fea54e63b8290563c670851a"},
+    {file = "open_interpreter-0.1.15-py3-none-any.whl", hash = "sha256:ae270a52de693293e29912df7b2d48430f9dbd930767b8a3b97bbfbeffb83db6"},
+    {file = "open_interpreter-0.1.15.tar.gz", hash = "sha256:112a3dc9866e9859f9d328c50a8f375fb1b71c0fe694d23531a0e5cdfcd1e592"},
 ]
 
 [[package]]
