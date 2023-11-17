@@ -53,7 +53,7 @@ mdurl==0.1.2
 multidict==6.0.4
 nest-asyncio==1.5.8
 nodeenv==1.8.0
-open-interpreter==0.1.14
+open-interpreter==0.1.15
 openai==0.28.1
 packaging==23.2
 parso==0.8.3
