@@ -70,7 +70,7 @@ pyreadline3==3.4.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 python-editor==1.0.4
-python-multipart==0.0.6
+python-multipart==0.0.7
 pywin32==306
 pyyaml==6.0.1
 pyzmq==25.1.1
